@@ -49,11 +49,11 @@ body {
 /* header */
 
 header {
-    height: 100px;
     width: 100%;
     position: sticky;
     top: 0;
     z-index: 1;
+    background-color: #14120B;
 }
 
 nav {
@@ -64,7 +64,6 @@ nav {
     height: 3.4em;
     width: 100%;    
     color: var(--text-color); 
-    background-color: #14120B;
 }
 
 nav .logo {
